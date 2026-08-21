@@ -1,0 +1,29 @@
+{
+  "repo": "silverfast-hdr-studio-scanner",
+  "product": "SilverFast HDR Studio Scanner",
+  "kind": "design",
+  "install_type": "nexpath",
+  "install_url": "https://silverfast.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "design",
+  "topics": [
+    "silverfast",
+    "scanner-software",
+    "film-scanning",
+    "hdr-scanning",
+    "digitization",
+    "color-management",
+    "archival-scanning",
+    "photography-tools",
+    "silverfast-setup-failed-fix",
+    "how-to-install-silverfast",
+    "silverfast-windows",
+    "imaging-tools",
+    "windows-tools",
+    "photo-utility"
+  ],
+  "stars_cache": 23,
+  "nexpath_slug": "silverfast",
+  "nexpath_app_name": "SilverFast HDR"
+}
